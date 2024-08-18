@@ -15,7 +15,7 @@ Sun Valley is a simple 2D platformer game developed using the Godot game engine.
     - Open Godot Engine.
     - Select "Import" and choose the `Sun-Valley` directory.
     - Click "Open" to load the project.
-
+or Simply Run the "Sun Valley.exe" File.
 ## Usage Instructions
 - **Move Left:** Arrow key left
 - **Move Right:** Arrow key right
